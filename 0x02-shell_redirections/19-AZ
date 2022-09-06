@@ -1,2 +1,2 @@
 #!/bin/bahs
-tr "A" "Z" | tr "c" "e"
+tr "A" "c" | tr "Z" "e"
